@@ -1,0 +1,5 @@
+micronaut:
+  application:
+    name: gateway-service
+  server:
+    port: 9001

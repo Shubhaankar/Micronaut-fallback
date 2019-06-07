@@ -1,0 +1,5 @@
+micronaut:
+  application:
+    name: child-service
+  server:
+    port: 9002
